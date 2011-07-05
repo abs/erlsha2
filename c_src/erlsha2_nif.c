@@ -35,7 +35,7 @@
 #include <inttypes.h>
 #endif
 #include <string.h>
-#include "erl_nif.h"
+#include <erl_nif.h>
 
 
 #ifndef WORDS_BIGENDIAN

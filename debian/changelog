@@ -1,0 +1,5 @@
+erlsha2-nif (1.0-0) unstable; urgency=low
+
+  * Debian packaging.
+
+ -- Andrei Soroker <soroker@gmail.com>  Tue, 14 Jun 2011 12:28:11 -0700
